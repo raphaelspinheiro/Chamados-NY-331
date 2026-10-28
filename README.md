@@ -152,17 +152,17 @@ Os três meses foram carregados sem linhas rejeitadas:
 ### 1. Visão Geral
 Volume, % fechados, mediana, % resolvidos em 24h e chamados em aberto. Evolução diária, faixas de resolução, canais e bairros.
 
-![Visão Geral](Power%20BI/prints/pagina_1_visao_geral.png)
+![Visão Geral](Imagens/Vis%C3%A3o%20geral.png)
 
 ### 2. Órgãos e Problemas
 Desempenho de cada órgão e dispersão volume × mediana por grupo de problema, com linhas de média que separam as prioridades.
 
-![Órgãos e Problemas](Power%20BI/prints/pagina_2_orgaos_problemas.png)
+![Órgãos e Problemas](Imagens/%C3%93rg%C3%A3os%20e%20Problemas.png)
 
 ### 3. Quando os chamados chegam
 Mapa de calor por dia da semana e hora, volume e agilidade ao longo do dia e canal de abertura por período.
 
-![Quando os chamados chegam](Power%20BI/prints/pagina_3_quando_chegam.png)
+![Quando os chamados chegam](Imagens/Chegada%20dos%20Chamados.png)
 
 ---
 
